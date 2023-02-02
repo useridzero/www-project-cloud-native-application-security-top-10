@@ -46,7 +46,7 @@ Examples:
  * Over-permissive cloud IAM role
  * Lack of orchestrator node trust rules (e.g. unauthorized hosts joining the cluster)
  * Unauthenticated orchestrator console access 
- * Unauthrized or overly-permissive orchestrator access
+ * Unauthorized or overly-permissive orchestrator access
 
 #### [CNAS-4: CI/CD pipeline & software supply chain flaws][CNAS4:2022]
 Examples:
